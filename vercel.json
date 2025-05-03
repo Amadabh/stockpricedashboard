@@ -1,0 +1,9 @@
+{
+    "buildCommand": "cd client && pnpm build",
+    "installCommand": "cd client && corepack use pnpm@`pnpm -v` && pnpm i",
+    "outputDirectory": "client/dist",
+    "rewrites": [
+      { "source": "/api/(.*)", "destination": "/api/$1" }
+    ]
+  }
+  
