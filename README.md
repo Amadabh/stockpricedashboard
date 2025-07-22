@@ -2,7 +2,7 @@
 
 A real-time stock market monitoring application built with React, TypeScript, and Finnhub API. **[Live Demo](https://stockpricedashboard-o2wzlc7oc-amadabhs-projects.vercel.app/)**
 
-![Dashboard Preview](https://i.imgur.com/your-screenshot-url.png) 
+![Dashboard Screenshot](./dashboard.png)
 
 ## ✨ Features
 
